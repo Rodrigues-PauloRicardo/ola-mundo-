@@ -4,3 +4,5 @@
  Repositório criado durante uma aula!
 
 Alteração feito remotamente pela função editar no GitHub.
+
+AQdicionado pasta com desenvolvimento da tela Inicial Instagram com CSS e HTML
