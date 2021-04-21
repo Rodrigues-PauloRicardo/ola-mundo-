@@ -7,4 +7,4 @@ Alteração feito remotamente pela função editar no GitHub.
 
 AQdicionado pasta com desenvolvimento da tela Inicial Instagram com CSS e HTML
 
-Tela inicial clone instagran
+Tela inicial clone instagram
