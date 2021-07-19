@@ -4,4 +4,4 @@ HTML E CSS
 
 Aplicado responsividade
 
-![image](/printInsta.png)
+![image](DigitalInnovation/printInsta.png)
