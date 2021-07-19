@@ -1,10 +1,4 @@
-# Olá, Mundo!
- primeiro repositório do curso de Git e GitHub
+TELA INICIAL DO INSTAGRAM
 
- Repositório criado durante uma aula!
+HTML E CSS
 
-Alteração feito remotamente pela função editar no GitHub.
-
-AQdicionado pasta com desenvolvimento da tela Inicial Instagram com CSS e HTML
-
-Tela inicial clone instagram
